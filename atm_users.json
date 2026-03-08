@@ -1,0 +1,12 @@
+{
+    "samith": {
+        "name": "Samith Raj",
+        "password": "123456",
+        "account_no": "123456789",
+        "balance": 50000.0,
+        "transactions": [
+            "2026-03-08 14:50:08 - Withdrawn: \u20b950000.00"
+        ],
+        "transaction_count": 1
+    }
+}
